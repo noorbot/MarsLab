@@ -1,2 +1,2 @@
-# marsUAV
-development space for Ontario Tech MARS LAB quadcopter
+# MarsLab
+development space for Ontario Tech MARS LAB quadcopter. annd Lily explore updates....
